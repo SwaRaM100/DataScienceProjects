@@ -1,0 +1,4 @@
+# Azure Machine Learning Studio
+The Data Science projects are made either in Azure Machine Learning Studio(mostly without python code) or with python code. 
+Here I will show you the set op of Azure and the configurations I used. For the projects made with Azure ML I am using a Azure subscription. This subscription is valid for 30 days. Hence to keep the steps and process visible, I'm adding this all to GitHub.
+
